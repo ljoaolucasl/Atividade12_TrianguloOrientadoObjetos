@@ -8,7 +8,7 @@ namespace Atividade12_TrianguloOrientadoObjetos.ConsoleApp
 {
     public class Validar
     {
-        public static int Numero(string mensagem)
+        public static int InputNumero(string mensagem)
         {
             int numero;
             bool valido;

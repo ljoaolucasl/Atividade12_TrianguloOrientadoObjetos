@@ -6,9 +6,9 @@
         {
             Triangulo triangulo = new Triangulo();
 
-            int ladoA = Validar.Numero("Lado A: ");
-            int ladoB = Validar.Numero("Lado B: ");
-            int ladoC = Validar.Numero("Lado C: ");
+            int ladoA = Validar.InputNumero("Lado A: ");
+            int ladoB = Validar.InputNumero("Lado B: ");
+            int ladoC = Validar.InputNumero("Lado C: ");
 
             triangulo.SetLados(ladoA, ladoB, ladoC);
 
