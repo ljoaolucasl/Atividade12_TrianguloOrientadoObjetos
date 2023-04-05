@@ -1,4 +1,4 @@
-﻿namespace Atividade12__TriânguloOrientadoObjetos.ConsoleApp
+﻿namespace Atividade12_TrianguloOrientadoObjetos.ConsoleApp
 {
     internal class Program
     {

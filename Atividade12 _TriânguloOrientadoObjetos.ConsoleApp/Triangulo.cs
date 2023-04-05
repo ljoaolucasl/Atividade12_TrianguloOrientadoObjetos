@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Atividade12__TriânguloOrientadoObjetos.ConsoleApp
+namespace Atividade12_TrianguloOrientadoObjetos.ConsoleApp
 {
     public class Triangulo
     {

@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net6.0</TargetFramework>
-    <RootNamespace>Atividade12__TriânguloOrientadoObjetos.ConsoleApp</RootNamespace>
+    <RootNamespace>Atividade12_TrianguloOrientadoObjetos.ConsoleApp</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
